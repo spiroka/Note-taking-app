@@ -1,6 +1,6 @@
 import { Note } from './types';
 
-const SESSION = 'my_session';
+const SESSION = 'my-session';
 
 export async function getNotes(): Promise<Note[]> {
   const res = await fetch(`https://challenge.surfe.com/${SESSION}/notes`);
