@@ -7,4 +7,4 @@ Users can be searched by username, first name, and last name.
 
 ## Running the application
 
-First, install dependencies by running `npm i`, then run the dev server with `npm run dev`;
+First, install dependencies by running `npm i`, then run the dev server with `npm run dev`.
